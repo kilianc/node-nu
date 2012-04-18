@@ -1,0 +1,23 @@
+{
+  "author": "Kilian Ciuffolo <me@nailik.org> (http://nailik.org)",
+  "name": "nu",
+  "description": "nu (new) -- functional object allocation",
+  "keywords": ["new", "constructor", "object", "allocation"],
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/kilianc/node-nu.git"
+  },
+  "main": "./",
+  "scripts": {
+    "test": "make test"
+  },
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "1.0.x",
+    "should": "0.6.1"
+  }
+}
